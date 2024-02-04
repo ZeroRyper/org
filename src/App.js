@@ -10,6 +10,7 @@ function App() {
 const [mostrarFormulario,actualizarMostrar]=useState(true)
 const [colaboradores, actualizarColaboradores]=useState([
     {
+      id:uuid(),
       equipo:"Front End",
       foto:"https://github.com/zeroryper.png",
       nombre:"Erick Padilla",
@@ -17,6 +18,7 @@ const [colaboradores, actualizarColaboradores]=useState([
       fav:true
     },
     {
+      id:uuid(),
       equipo:"Programacion",
       foto:"https://github.com/JoseDarioGonzalezCha.png",
       nombre:"Genesys Rondon",
@@ -25,6 +27,7 @@ const [colaboradores, actualizarColaboradores]=useState([
 
     },
     {
+      id:uuid(),
       equipo:"UX y Diseño",
       foto:"https://github.com/JeanmarieAluraLatam.png",
       nombre:"Jeanmarie Quijada",
@@ -33,6 +36,7 @@ const [colaboradores, actualizarColaboradores]=useState([
 
     },
     {
+      id:uuid(),
       equipo:"Programacion",
       foto:"https://github.com/christianpva.png",
       nombre:"Christian Velasco",
@@ -88,7 +92,6 @@ const [colaboradores, actualizarColaboradores]=useState([
   ])
   //Tenario --> condicion ? seMuestra : noSeMuestra
   // condicion && seMuestra
-  console.log(equipos)
 
   const cambiarMostrar=()=>{
     actualizarMostrar(!mostrarFormulario)
@@ -125,7 +128,9 @@ const [colaboradores, actualizarColaboradores]=useState([
 
   const like=(id)=>{
     const colaboradoresActualizados=colaboradores.map((colaborador)=>{
+      console.log(colaborador.id)
       if(colaborador.id===id){
+        console.log(id)
         colaborador.fav=!colaborador.fav
       }
       return colaborador
