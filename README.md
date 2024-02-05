@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Frontend Practice - Ableton</h1>
+<h1>ORG</h1>
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/TAILWINDCSS-01A3D8?logo=tailwindcss&logoColor=FFFFFF&style=for-the-badge" />
@@ -13,11 +13,9 @@
 <br>
 <hr>
 <div align="start">
-<p>Ableton Bocchi Version</p>
 <img src="https://media.licdn.com/dms/image/D562DAQFkZZXPUwEpIQ/profile-treasury-image-shrink_800_800/0/1697338418273?e=1707699600&v=beta&t=6YFiM_1RrFVuteeAD50dzp1IKHBv_6hn4EjR8XXKT9Y">
 <br>
 <hr>
-<p>MegaMenu extensible using javascript</p>
 <img src="https://github.com/ZeroRyper/org/blob/master/src/componets/img/Screenshot_ORG.png?raw=trueg">
 <br>
 </div>
