@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Proyecto Challenge Oracle</h1>
-<img src="[./assets/Screenshot.png](https://github.com/ZeroRyper/org/blob/master/src/componets/img/Screenshot_ORG.png?raw=true)">
+<img src="https://github.com/ZeroRyper/org/blob/master/src/componets/img/Screenshot_ORG.png?raw=true">
 </div>
 <div align="center">
     <img src="https://github.com/ZeroRyper/org/blob/master/src/componets/img/Screenshot_ORG.png?raw=true"/>
