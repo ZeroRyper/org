@@ -13,7 +13,7 @@
 <br>
 <hr>
 <div align="start">
-<img src="https://media.licdn.com/dms/image/D562DAQFkZZXPUwEpIQ/profile-treasury-image-shrink_800_800/0/1697338418273?e=1707699600&v=beta&t=6YFiM_1RrFVuteeAD50dzp1IKHBv_6hn4EjR8XXKT9Y">
+<img width="2rem" src="https://media.licdn.com/dms/image/D562DAQFkZZXPUwEpIQ/profile-treasury-image-shrink_800_800/0/1697338418273?e=1707699600&v=beta&t=6YFiM_1RrFVuteeAD50dzp1IKHBv_6hn4EjR8XXKT9Y">
 <br>
 <hr>
 <img src="https://github.com/ZeroRyper/org/blob/master/src/componets/img/Screenshot_ORG.png?raw=trueg">
