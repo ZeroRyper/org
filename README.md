@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/HTML-EC6231?logo=html5&logoColor=FFFFFF&style=for-the-badge" />
 </div>
 <br>
-<div align="center"><a target="_blank"  href="https://zeroryper.github.io/org/">&#128073;You can see it here&#128072;</a>
+<div align="center"><a href="https://zeroryper.github.io/org/" target="_blank">&#128073;You can see it here&#128072;</a>
 </div>
 <br>
 <hr>
